@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="./assets/astronaut-img.png" alt="Astronauta flutuando no espaço" width="200" style="border-radius:50%;margin-bottom:10px;"/>
+<img src="./assets/astronauta-img.png" alt="Astronauta flutuando no espaço" width="200" style="border-radius:50%;margin-bottom:10px;"/>
 
 <h1>👨‍🚀 Yago Cerqueira Regis</h1>
 
