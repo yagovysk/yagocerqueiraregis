@@ -21,9 +21,9 @@ Desenvolvedor <b>Full-Stack</b> apaixonado por experiências web modernas.<br/>
 
 ## ✨ Sobre mim
 
-💼 Construo aplicações completas — do banco de dados ao front-end.  
+💼 Construo aplicações completas do back-end até o front-end.  
 🚀 Busco sempre performance, acessibilidade e boas práticas de código.  
-🌌 Curioso por temas espaciais, interfaces vivas e design criativo.
+🌌 Adoro um design chamativo, interfaces vivas e criatividade.
 
 ---
 
@@ -56,8 +56,8 @@ Quanto mais próximo do núcleo, maior o domínio no meu fluxo atual.
 | Projeto | Descrição | Tecnologias |
 |----------|------------|-------------|
 | [🌐 Portfólio Pessoal](https://yagocerqueiraregis.netlify.app/) | Site pessoal com meus projetos e contato | React, Vite, Tailwind |
-| [🎲 Sistema de Aluguel de Jogos](#) | Plataforma para gerenciamento de jogos de tabuleiro | Ruby on Rails, PostgreSQL |
-| [📊 Dashboard de Dados](#) | Dashboard interativa e responsiva | React, TypeScript, Node.js |
+| [🎲 Sistema de Aluguel de Jogos](https://www.acervodejogos.com.br/) | Plataforma para gerenciamento de jogos de tabuleiro | Ruby on Rails, PostgreSQL |
+| [📊 Saas TogyroStore](https://togyrostore.com.br/) | Sistema de lojas e landing pages | Ruby on rails, Tailwindcss, Turbo Frame, Stimulus e Postgresql |
 
 ---
 
