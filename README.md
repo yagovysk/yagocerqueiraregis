@@ -57,7 +57,7 @@ Quanto mais próximo do núcleo, maior o domínio no meu fluxo atual.
 |----------|------------|-------------|
 | [🌐 Portfólio Pessoal](https://yagocerqueiraregis.netlify.app/) | Site pessoal com meus projetos e contato | React, Vite, Tailwind |
 | [🎲 Sistema de Aluguel de Jogos](https://www.acervodejogos.com.br/) | Plataforma para gerenciamento de jogos de tabuleiro | Ruby on Rails, PostgreSQL |
-| [📊 Saas TogyroStore](https://togyrostore.com.br/) | Sistema de lojas e landing pages | Ruby on rails, Tailwindcss, Turbo Frame, Stimulus e Postgresql |
+| [📊 Saas TogyroStore](https://togyrostore.com.br/) | Sistema de lojas e landing pages | Ruby on Rails, Tailwindcss, Turbo Frame, Stimulus e PostgreSQL |
 
 ---
 
